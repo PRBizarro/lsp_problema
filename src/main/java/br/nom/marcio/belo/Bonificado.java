@@ -9,6 +9,7 @@ public class Bonificado extends Funcionario
 
     protected Bonificado(String nome, BigDecimal salarioAnual) {
         super(nome, salarioAnual);
+        // Teste do Travis CL
     }
 
     @Override
